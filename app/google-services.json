@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "560707883068",
+    "firebase_url": "https://pagina-web-f2db7.firebaseio.com",
+    "project_id": "pagina-web-f2db7",
+    "storage_bucket": "pagina-web-f2db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560707883068:android:36bb181672ccd1d5",
+        "android_client_info": {
+          "package_name": "mecalogik.com.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560707883068-v2amlaquqqa7fp2jr7f79v72iq7g8dn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.prueba",
+            "certificate_hash": "3e23b2cfc3da605155862f966f7085d5d8b45947"
+          }
+        },
+        {
+          "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjn6okVZDXsYwJ-0AhCVh3bZ1xilIS4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560707883068:android:2fe88a701c77869a",
+        "android_client_info": {
+          "package_name": "mecalogik.com.sanjuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560707883068-vqqbg443eiedf6ng77uht36sc7hvoq4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.sanjuan",
+            "certificate_hash": "0f0e1f3caede4c4caff63839da6cf30a57489cd8"
+          }
+        },
+        {
+          "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjn6okVZDXsYwJ-0AhCVh3bZ1xilIS4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560707883068:android:15fe164ff89e82a9",
+        "android_client_info": {
+          "package_name": "mecalogik.com.sanjuandos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560707883068-7lokkaqgbj0t2od9p4u865pf3lcghsg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.sanjuandos",
+            "certificate_hash": "e3a2af7ab2efbad6d0208633e4320691bcd68d44"
+          }
+        },
+        {
+          "client_id": "560707883068-53tmaj33ibjj8egtvom38icas9pbsp7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.sanjuandos",
+            "certificate_hash": "481688bd0ae4073433f9ddbd43672321ff1fe892"
+          }
+        },
+        {
+          "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjn6okVZDXsYwJ-0AhCVh3bZ1xilIS4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
